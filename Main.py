@@ -5,6 +5,7 @@ import PySimpleGUI as sg
 from values import *
 from preparing import *
 from sorting import *
+import logging
 
 layout = [
     [sg.Text('Folder:'), sg.InputText(key='-FOLDER-'), sg.FolderBrowse('Choose folder')],
@@ -19,6 +20,6 @@ while True:
         break
 
     if event == 'Sort':
-        print('-------------------------------------')
+        logging.log(1, '-------------------------------------')
         prepare(values['-FOLDER-'])
         sort_files()

@@ -1,0 +1,16 @@
+../../Scripts/psghelp.exe,sha256=crrfK408B2ofyeZpFWxb9qm_b8ckQ6QKj29_Vq7yUQI,102285
+../../Scripts/psgissue.exe,sha256=Wr0PCjiOstudTX2HMgl-7CiWylAThL-FcAabSwzgJGo,102303
+../../Scripts/psgmain.exe,sha256=862GXfAbbtkMuC1MGWgkx9ClcuxM5B_sSVSFaB9n8w0,102293
+../../Scripts/psgsettings.exe,sha256=FhhooggyACQif08OAFSdh1b3ksb1_ZbFOZBYkBPcDAw,102323
+../../Scripts/psgupgrade.exe,sha256=GsQc2DWiAOjfnroMhSGKhXKl-2RDzbmkkc4IcoQJYZU,102299
+../../Scripts/psgver.exe,sha256=khTyPvIOzJ4XRDeM_QGeW1mx7ixMKCR0rcEEDF_9uQs,102297
+PySimpleGUI.py,sha256=yhPGpMcN2CeDVZ1D1xIJaMP9xY6sTr5DMUst05AqShE,2132889
+PySimpleGUI_4_foss-4.60.4.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+PySimpleGUI_4_foss-4.60.4.1.dist-info/METADATA,sha256=YTRwOcSKYJM197gSofgHq_qXQRZm31EoGSsiAe-b_xg,1125
+PySimpleGUI_4_foss-4.60.4.1.dist-info/RECORD,,
+PySimpleGUI_4_foss-4.60.4.1.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+PySimpleGUI_4_foss-4.60.4.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+PySimpleGUI_4_foss-4.60.4.1.dist-info/entry_points.txt,sha256=B_MFxbwgT7lSDkvYPZYWHq4s4pjmKOZONQjKgMIRw_A,354
+PySimpleGUI_4_foss-4.60.4.1.dist-info/license.txt,sha256=pWgb-bBdsU2Gd2kwAXxketnm5W_2u8_fIeWEgojfrxs,7651
+PySimpleGUI_4_foss-4.60.4.1.dist-info/top_level.txt,sha256=9sLHIbBIAFdT1n02rvUvrGhAsmIAkTfTG-gY5sk4bpc,12
+__pycache__/PySimpleGUI.cpython-312.pyc,,
